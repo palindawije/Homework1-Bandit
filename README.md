@@ -5,3 +5,7 @@ Issues such as unable to connect to the game using ssh due to the wifi issues an
 
 level 0
 
+![level 0](https://cloud.githubusercontent.com/assets/14229107/14393908/49c0ab50-fd7e-11e5-8896-868be87d14cc.png)
+
+level 1
+
